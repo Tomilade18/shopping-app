@@ -48,3 +48,13 @@ body {
     width: 30px;
 }
 
+.product{
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.product img{
+    width: 70px;
+    height: 70px;
+}
